@@ -21,3 +21,12 @@ The insights gained from the data exploration are presented visually using vario
 The data analysis phase involves leveraging the cleaned and explored data to derive meaningful conclusions. Statistical techniques, data modeling, and machine learning algorithms may be employed to gain deeper insights and make data-driven decisions.
 
 By following these steps, we were able to extract, clean, explore, and analyze Swiggy's data from their website in Bangalore. The resulting insights can provide valuable information for business decision-making and strategic planning.
+
+
+
+REQUIRED LIBRARIES - 
+
+requests
+html_to_json
+selenium
+pandas
